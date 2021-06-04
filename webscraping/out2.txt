@@ -1,0 +1,41 @@
+<div class="layout-container" headervariation="secondary" prefetch="true">
+ <div class="results-page container">
+  <meta content="results" name="page-name"/>
+  <div class="sc-gYhigD fWktAP">
+   <div class="sc-bGqQkm hbFGno">
+    <div class="sc-fxNNfJ kXEdtq">
+     <div class="sc-fXvjs buYqVT">
+     </div>
+    </div>
+    <div class="sc-fxNNfJ kXEdtq">
+     <div class="sc-fXvjs sc-cjHJEj buYqVT kQbLAY">
+     </div>
+    </div>
+    <div class="sc-fxNNfJ kXEdtq">
+     <div class="sc-fXvjs sc-ihnbgO buYqVT dWVYgZ">
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+<div class="results-page container">
+ <meta content="results" name="page-name"/>
+ <div class="sc-gYhigD fWktAP">
+  <div class="sc-bGqQkm hbFGno">
+   <div class="sc-fxNNfJ kXEdtq">
+    <div class="sc-fXvjs buYqVT">
+    </div>
+   </div>
+   <div class="sc-fxNNfJ kXEdtq">
+    <div class="sc-fXvjs sc-cjHJEj buYqVT kQbLAY">
+    </div>
+   </div>
+   <div class="sc-fxNNfJ kXEdtq">
+    <div class="sc-fXvjs sc-ihnbgO buYqVT dWVYgZ">
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
