@@ -1,0 +1,44 @@
+repo_name: momothain/WICS-morgann-2021
+report_id: 1c3e2fcac7de2d6d2e0f4b8d09da53c4
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-01T14:07:04+00:00'
+requested_by: momothain
+provider: github
+branch: main
+detected_tools_count: 3
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/momothain/WICS-morgann-2021
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/momothain/WICS-morgann-2021
+  detection_source: Repo Metadata
+- name: Vagrant
+  description: A tool for building and distributing development environments
+  website_url: http://www.vagrantup.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Management
+  image_url: https://img.stackshare.io/service/768/150px-Vagrant.png
+  detection_source_url: https://github.com/momothain/WICS-morgann-2021/blob/main/Vagrantfile
+  detection_source: Vagrantfile
+  last_updated_by: Morgann Thain
+  last_updated_on: 2021-06-03 19:29:15.000000000 Z
